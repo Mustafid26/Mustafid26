@@ -18,4 +18,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafid26&" alt="mustafid26" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafid26&" alt="mustafid26" /></p>
